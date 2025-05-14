@@ -1,7 +1,5 @@
 from abc import ABC, abstractmethod
 from datetime import datetime
-import json
-
 
 class Product(ABC):
 
